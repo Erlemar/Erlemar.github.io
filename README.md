@@ -8,7 +8,7 @@
 [Otto Group Product Classification Challenge](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Otto_Group.ipynb) is a knowledge competition on Kaggle. This is a multiple classification problem. Based on information about products we predict to which category they belong. General description and data are available on [Kaggle](https://www.kaggle.com/c/otto-group-product-classification-challenge).
 
 ## Regression problems.
-[House Prices: Advanced Regression Techniques](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/House prices.ipynb) is a knowledge competition on Kaggle. This is a regression problem: based on information about houses we predict their prices. General description and data are available on [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
+[House Prices: Advanced Regression Techniques](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/House_prices.ipynb) is a knowledge competition on Kaggle. This is a regression problem: based on information about houses we predict their prices. General description and data are available on [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
 [Caterpillar Tube Pricing](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Caterpillar.ipynb) is a competition on Kaggle. This is a regression problem: based on information about tube assemblies we predict their prices. General description and data are available on [Kaggle](https://www.kaggle.com/c/caterpillar-tube-pricing).
 
