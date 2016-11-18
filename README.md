@@ -32,3 +32,7 @@ The data provided consists of raw reviews and class (1 or 2), so the main part i
 ## Clustering
 ### Clustering with KMeans
 Clustering is an approach to unsupervised machine learning. [Clustering with KMeans](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Clustering_with_K-Means.ipynb) is one of algorithms of clustering. in this notebook I'll demonstrate how it works. Data used is about various types of seeds and their parameters. It is available [here](https://archive.ics.uci.edu/ml/datasets/seeds).
+
+## Neural networks
+### Feedforward neural network with regularization
+[This](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/NN_GGG.ipynb) is a simple example of feedforward neural network with regularization. It is based on Andrew Ng's lectures on Coursera. I used data from Kaggle's challenge "Ghouls, Goblins, and Ghosts... Boo!", it is available [here](https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo).
