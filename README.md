@@ -40,3 +40,8 @@ Clustering is an approach to unsupervised machine learning. [Clustering with KMe
 ## Neural networks
 ### Feedforward neural network with regularization
 [This](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/NN_GGG.ipynb) is a simple example of feedforward neural network with regularization. It is based on Andrew Ng's lectures on Coursera. I used data from Kaggle's challenge "Ghouls, Goblins, and Ghosts... Boo!", it is available [here](https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo).
+
+## Data exploration and analysis
+### Telematic data
+I have a dataset with telematic information about 10 cars driving during one day. I visualise data, search for insights and analyse the behavior of each driver. I can't share the data. This is the [notebook](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Devices_analysis.ipynb) with analysis.
+
