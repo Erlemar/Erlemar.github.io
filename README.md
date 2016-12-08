@@ -43,5 +43,4 @@ Clustering is an approach to unsupervised machine learning. [Clustering with KMe
 
 ## Data exploration and analysis
 ### Telematic data
-I have a dataset with telematic information about 10 cars driving during one day. I visualise data, search for insights and analyse the behavior of each driver. I can't share the data, but here is the [notebook](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Devices_analysis.ipynb).
-
+I have a dataset with telematic information about 10 cars driving during one day. I visualise data, search for insights and analyse the behavior of each driver. I can't share the data, but here is the [notebook](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Devices_analysis.ipynb). I want to notice that folium map can't be rendered by native github, but nbviewer.jupyter can do it.
