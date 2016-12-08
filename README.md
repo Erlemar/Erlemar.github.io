@@ -43,5 +43,5 @@ Clustering is an approach to unsupervised machine learning. [Clustering with KMe
 
 ## Data exploration and analysis
 ### Telematic data
-I have a dataset with telematic information about 10 cars driving during one day. I visualise data, search for insights and analyse the behavior of each driver. I can't share the data. This is the [notebook](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Devices_analysis.html) with analysis.
+I have a dataset with telematic information about 10 cars driving during one day. I visualise data, search for insights and analyse the behavior of each driver. I can't share the data. [Part 1](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Devices_analysis_1.html), [Part 2](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Devices_analysis_2.html), as github can't render this big file.
 
