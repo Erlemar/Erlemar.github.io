@@ -15,6 +15,9 @@ This dataset has little number of samples, so careful feature selection and mode
 [Otto Group Product Classification Challenge](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Otto_Group.ipynb) is a knowledge competition on Kaggle. This is a multiple classification problem. Based on information about products we predict their category. General description and data are available on [Kaggle](https://www.kaggle.com/c/otto-group-product-classification-challenge).
 The data is obfuscated, so the main questionlies in the selection of the model for prediction.
 
+###Imbalanced classed
+In real world it is common to meet data in which some classes are more common and others are rarer. In case of a serious disbalance prediction rare classes could be difficult using standard classification methods. In this [notebook](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Imbalanced.ipynb) I analyse such a situation. I can't share the data, used in this analysis.
+
 ## Regression problems.
 ### House Prices: Advanced Regression Techniques
 [House Prices: Advanced Regression Techniques](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/House_Prices.ipynb) is a knowledge competition on Kaggle. This is a regression problem: based on information about houses we predict their prices. General description and data are available on [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
