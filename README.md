@@ -36,6 +36,9 @@ Dataset consists of many files, so there is an additional challenge in combining
 [Bag of Words Meets Bags of Popcorn](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Bag_of_Words.ipynb) is a sentimental analysis problem. Based on texts of reviews we predict whether they are positive or negative. General description and data are available on [Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial).
 The data provided consists of raw reviews and class (1 or 2), so the main part is cleaning the texts.
 
+### NLP with Python: exploring Fate/Zero
+Natural language processing in machine learning helps to accomplish a variety of tasks, one of which is extracting information from texts. This [notebook](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Fate_Zero_explore.ipynb) is an overview of some text exploration methods using English translation of Japanese light novel "Fate/Zero" as an example.
+
 ## Clustering
 ### Clustering with KMeans
 Clustering is an approach to unsupervised machine learning. [Clustering with KMeans](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Clustering_with_K-Means.ipynb) is one of algorithms of clustering. in this notebook I'll demonstrate how it works. Data used is about various types of seeds and their parameters. It is available [here](https://archive.ics.uci.edu/ml/datasets/seeds).
