@@ -40,7 +40,10 @@ The data provided consists of raw reviews and class (1 or 2), so the main part i
 Natural language processing in machine learning helps to accomplish a variety of tasks, one of which is extracting information from texts. This [notebook](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Fate_Zero_explore.ipynb) is an overview of several text exploration methods using English translation of Japanese light novel "Fate/Zero" as an example.
 
 ### NLP. Text generation with Markov chains
-This [notebook](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Markov_chain_nlp.ipynb) shows how a new text could be generated based on a given corpus using an idea of Markov chains. I start with simple first-order chains and with each step improve model to generate better text.
+This [notebook](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Markov_chain_nlp.ipynb) shows how a new text can be generated based on a given corpus using an idea of Markov chains. I start with simple first-order chains and with each step improve model to generate better text.
+
+### NLP. Text summarization
+This [notebook](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Summarize.ipynb) shows how text can be summarized choosing several most important sentences from the text. I explore various methods of doing this based on a news article.
 
 ## Clustering
 ### Clustering with KMeans
