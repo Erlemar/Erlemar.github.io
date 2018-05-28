@@ -17,6 +17,15 @@ A conversational chatbot in [telegram](http://t.me/amlnlpbot) which was created 
 ### DonorsChoose.org Application Screening
 
 DonorsChoose.org empowers public school teachers from across the country to request much-needed materials and experiences for their students. DonorsChoose.org receives hundreds of thousands of project proposals each year for classroom projects in need of funding. This is a competition on Kaggle where people can create a machine learning model to help this fund with auto-approving of applications. Prizes are given to the authors with the most upvoted kernels. Here is my [kernel](https://www.kaggle.com/artgor/eda-feature-engineering-and-xgb-lgb) with extensive EDA, feature engineering and building models.
+This kernel got 2nd place by the number of votes and I wone Google Pixelbook for it!
+
+### Avito Demand Prediction Challenge
+
+Avito challenge is about predicting demand for an online advertisement based on its full description (title, description, images, etc.), its context (geographically where it was posted, similar ads already posted) and historical demand for similar ads in similar contexts. The competition is interesting due to many types of data in it which allows to build various models. Here is my [kernel](https://www.kaggle.com/artgor/eda-features-engineering-and-lightgbm) with EDA, creating features and building models.
+
+### Home Credit Default Risk
+
+Home Credit Bank offers a challenge of credit scoring. There is a lot of data about applicants and their previous behavior. Here is my [kernel](https://www.kaggle.com/artgor/eda-in-progress).
 
 ## Classification problems.
 
