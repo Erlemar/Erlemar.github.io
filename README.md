@@ -37,6 +37,14 @@ Avito challenge is about predicting demand for an online advertisement based on 
 
 Home Credit Bank offers a challenge of credit scoring. There is a lot of data about applicants and their previous behavior. Here is my [kernel](https://www.kaggle.com/artgor/eda-in-progress).
 
+### Movie Review Sentiment Analysis
+
+Some time ago Kaggle has launched several "remakes" of old competitions. It means that datasets are the same, but now we are offered an opportunity to simply explore the data and create kernels with new methods. One of these competitions is sentiment analysis of Rotten Tomatoes dataset with 5 classes (negative, somewhat negative, neutral, somewhat positive, positive). I have created a [kernel](https://www.kaggle.com/artgor/movie-review-sentiment-analysis-eda-and-models/notebook) with EDA and modern NN architecture: LSTM-CNN. Currently this kernel shows the 5th result of leaderboard.
+
+### Costa Rican Household Poverty Level Prediction
+
+The Inter-American Development Bank is asking the Kaggle community for help with income qualification for some of the world's poorest families. This will help them to identify families which really require help. Here is my [kernel](https://www.kaggle.com/artgor/poverty-analysis) with extensive EDA, feature engineering and modeling.
+
 ## Classification problems.
 
 ### Titanic: Machine Learning from Disaster
