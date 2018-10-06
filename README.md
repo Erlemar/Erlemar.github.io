@@ -27,7 +27,7 @@ A conversational chatbot in [telegram](http://t.me/amlnlpbot) which was created 
 ### DonorsChoose.org Application Screening
 
 DonorsChoose.org empowers public school teachers from across the country to request much-needed materials and experiences for their students. DonorsChoose.org receives hundreds of thousands of project proposals each year for classroom projects in need of funding. This is a competition on Kaggle where people can create a machine learning model to help this fund with auto-approving of applications. Prizes are given to the authors with the most upvoted kernels. Here is my [kernel](https://www.kaggle.com/artgor/eda-feature-engineering-and-xgb-lgb) with extensive EDA, feature engineering and building models.
-This kernel got 2nd place by the number of votes and I wone Google Pixelbook for it!
+This kernel got 2nd place by the number of votes and I won Google Pixelbook for it!
 
 ### Avito Demand Prediction Challenge
 
@@ -41,9 +41,21 @@ Home Credit Bank offers a challenge of credit scoring. There is a lot of data ab
 
 Some time ago Kaggle has launched several "remakes" of old competitions. It means that datasets are the same, but now we are offered an opportunity to simply explore the data and create kernels with new methods. One of these competitions is sentiment analysis of Rotten Tomatoes dataset with 5 classes (negative, somewhat negative, neutral, somewhat positive, positive). I have created a [kernel](https://www.kaggle.com/artgor/movie-review-sentiment-analysis-eda-and-models/notebook) with EDA and modern NN architecture: LSTM-CNN. Currently this kernel shows the 5th result of leaderboard.
 
-### Costa Rican Household Poverty Level Prediction
+### Two Sigma: Using News to Predict Stock Movements
 
-The Inter-American Development Bank is asking the Kaggle community for help with income qualification for some of the world's poorest families. This will help them to identify families which really require help. Here is my [kernel](https://www.kaggle.com/artgor/poverty-analysis) with extensive EDA, feature engineering and modeling.
+In this competition Reuters provide unique data, which can't be obtained outside of this competition. We can see a 10 years worth of news and market data on many companies. This competition is kernel-only, which means that everyone has the same amount of computational power for this competition. In my [kernel](https://www.kaggle.com/artgor/eda-feature-engineering-and-everything) I have analysed the data and showed trends of market data.
+
+### Santander Value Prediction Challenge
+
+In this competition we got an anonymized dataset, later it was found that it had a certain structure. In my [kernel](https://www.kaggle.com/artgor/satander-eda-nn-features-lgb) I tried to analyze the data and created new features using NN model.
+
+### Google Analytics Customer Revenue Prediction
+
+RStudio hosted this competition to prove that machine learning algorithms can impact business and help marketing. In my [kernel](https://www.kaggle.com/artgor/eda-on-basic-data-and-lgb-in-progress) I did an extensive EDA and build an interesting LGB model.
+
+### Data Science for Good: Center for Policing Equity
+
+This dataset was provided by The Center for Policing Equity. They hope that kagglers will help to create better models, find some unique insights and improve geo-analytics. In my [kernel](https://www.kaggle.com/artgor/what-can-be-said-about-justice) I try to do such things.
 
 ## Classification problems.
 
@@ -162,4 +174,4 @@ I have a dataset with telematic information about 10 cars driving during one day
 [Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Collaborative_filtering.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Collaborative_filtering.ipynb)
 
 Recommenders are systems, which predict ratings of users for items. There are several approaches to build such systems and one of them is Collaborative Filtering. 
-This notebook shows sevуral examples of collaborative filtering algorithms.
+This notebook shows several examples of collaborative filtering algorithms.
