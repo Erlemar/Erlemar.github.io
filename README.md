@@ -24,6 +24,11 @@ A conversational chatbot in [telegram](http://t.me/amlnlpbot) which was created 
 
 ## Kaggle kernels.
 
+### 2018 Kaggle ML & DS Survey Challenge
+
+Some time ago Kaggle launched a big online survey for kagglers and now this data is public. There were multiple choice questions and some forms for open answers. Survey received 23k+ respondents from 147 countries. As a result we have a big dataset with rich information on data scientists using Kaggle.
+In this [kernel](https://www.kaggle.com/artgor/russia-usa-india-and-other-countries) I compare DS in USA, Russia, India and other countries.
+
 ### DonorsChoose.org Application Screening
 
 DonorsChoose.org empowers public school teachers from across the country to request much-needed materials and experiences for their students. DonorsChoose.org receives hundreds of thousands of project proposals each year for classroom projects in need of funding. This is a competition on Kaggle where people can create a machine learning model to help this fund with auto-approving of applications. Prizes are given to the authors with the most upvoted kernels. Here is my [kernel](https://www.kaggle.com/artgor/eda-feature-engineering-and-xgb-lgb) with extensive EDA, feature engineering and building models.
